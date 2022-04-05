@@ -5,11 +5,11 @@
 drawBox(green);
 drawBox(green);
 drawBox(green);
-newline();
+newLine();
 drawBox(yellow);
 drawBox(yellow);
 drawBox(yellow);
-newline();
+newLine();
 drawBox(blue);
 drawBox(blue);
 drawBox(blue);
