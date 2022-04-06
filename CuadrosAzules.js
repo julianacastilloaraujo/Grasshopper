@@ -1,1 +1,1 @@
-drawBoxes();
+drawBoxes('');
