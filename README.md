@@ -1,2 +1,3 @@
 # Grasshopper
-Android app by google llc
+Ejercicios en grasshopper 🐛 desarrollados en javascript 💛 creacion de banderas 🇫🇷🥖 videojuego de cuadros 🟦 y drawbox 📦
+
