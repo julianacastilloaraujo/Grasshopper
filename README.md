@@ -27,7 +27,7 @@ En este repositorio, encontrarás varios ejercicios desarrollados en Grasshopper
 1. Abre Grasshopper en tu navegador web.
 2. Importa o copia los ejercicios de este repositorio.
 3. Ejecuta los ejercicios y experimenta con ellos para aprender y practicar JavaScript.
-
+   
 ## Contribuciones
 Las contribuciones son bienvenidas. Si deseas agregar nuevos ejercicios o mejorar los existentes, por favor, haz un fork de este repositorio y envía un pull request.
 
