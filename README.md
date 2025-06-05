@@ -1,4 +1,5 @@
 # Grasshopper
+🐛 Mini JavaScript projects from Grasshopper – flags, squares, and simple games.
 Ejercicios en Grasshopper 🐛 desarrollados en JavaScript 💛
 
 ## Descripción
